@@ -23,7 +23,7 @@ class DepthCalculator {
       return 1 + maxDepth;
     };
     return getDepth(arr);
-    // remove line with error and write your code here
+
   }
 }
 
